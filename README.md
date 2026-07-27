@@ -6,7 +6,7 @@ A modern and interactive **Marketing Funnel Performance Dashboard** developed in
 
 ## 📸 Dashboard Preview
 
-![Marketing Funnel Dashboard](dashboard.png)
+![Marketing Funnel Dashboard](Dashboard_Preview.png)
 
 ---
 
