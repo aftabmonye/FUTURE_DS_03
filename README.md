@@ -121,9 +121,9 @@ The dataset includes marketing performance metrics such as:
 ```text
 Marketing-Funnel-Dashboard/
 │
-├── Marketing Funnel Dashboard.pbix
+├── Marketing_Funnel_Dash.pbix
 ├── Marketing_Funnel_Dataset.csv
-├── dashboard.png
+├── Dashboard_Review.png
 └── README.md
 ```
 
